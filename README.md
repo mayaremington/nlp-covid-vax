@@ -1,4 +1,4 @@
-## The Many Strains of Anti-vaxxers: A study of COVID-19 anti-vaccination Tweets 
+## The Many Strains of Anti-vax: A study of COVID-19 anti-vaccination Tweets 
 Project type: natural language processing (NLP)
 
 - Used NMF topic modeling to identify topics within the Twitter COVID-19 anti-vaccine movement 
