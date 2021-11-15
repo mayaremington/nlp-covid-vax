@@ -2,9 +2,9 @@
 Project type: natural language processing (NLP)
 
 - Used NMF topic modeling to identify sub-topics within the Twitter COVID-19 anti-vaccine movement 
-- Reconstituted a collection of Tweets containing anti-vaccine keywords
+- Reconstituted a collection of > 300K Tweets containing anti-vaccine keywords
 - Identified 9 sub-topics, which can be organized into 3 broader categories: anti-vaccine, pro-vaccine, and a mix of both 
-  - (Data collection was designed to catch anti-vaccine Tweets, but many pro-vaccine sub-topics made it into the dataset!)
+  - (Although data collection was designed to catch anti-vaccine Tweets, many pro-vaccine sub-topics made it into the dataset)
 
 
 
