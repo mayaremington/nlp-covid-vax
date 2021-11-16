@@ -16,4 +16,4 @@ Project type: natural language processing (NLP)
 [3) Modeling](03_nlp_covid_vax_modeling.ipynb)  
 
 **Other links:**  
-[Presentation slides](nlp-covid-vax.pdf)
+[Presentation slides](https://github.com/mayaremington/nlp-covid-vax/blob/main/%20nlp-covid-vax.pdf)
